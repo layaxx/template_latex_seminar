@@ -19,7 +19,8 @@
     "**/*.out": true,
     "**/*.fdb_latexmk": true,
     "**/*.fls": true,
-    "**/*.synctex*": true
+    "**/*.synctex*": true,
+    "**/*__latexindent*": true
   },
   "editor.minimap.autohide": true,
   "editor.minimap.enabled": false,
